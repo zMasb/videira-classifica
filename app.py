@@ -78,5 +78,5 @@ def main():
 
         previsao(interpreter, image)
 
-if __name__ == "__main__":
+if __name__ == "__main___":
     main()
