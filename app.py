@@ -59,7 +59,7 @@ def main():
 
     st.set_page_config(
         page_title = "Classfica Folhas de videira",
-        page_icon = "🍇"
+        page_icon = "🍇",
     )
 
     st.write("# Classifica Folhas de Videira")
@@ -78,5 +78,5 @@ def main():
 
         previsao(interpreter, image)
 
-if __name__ == "__main___":
+if __name__ == "__main__":
     main()
